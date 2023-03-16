@@ -102,7 +102,7 @@ export const CouponV2Wrapper = styled.div`
         }
 
         .footer{
-          top: 200%;
+          top: 170%;
           left: 125%;
           font-size: 20px;
         }
